@@ -14,7 +14,7 @@ https://rdcu.be/d1TNW
 
 ## Important Links
 
-| [Timesheet](https://1sfu-my.sharepoint.com/:x:/g/personal/hamarneh_sfu_ca/ERekhh3WcIJFiFAbFqt5bpkB1A5hviZGSfY0xAEeKkKm4Q?e=TQPpXc) | [Slack channel](https://app.slack.com/client/T07K7SWL5A4/C07JS13BQUT) | [Project report](https://www.overleaf.com/project/66d0af91ae7460ea9a4852ad) | [Figma Designs](https://www.figma.com/design/07ebJ9bOish0JBql6CXDZY/EMOTIC?node-id=1-2&t=NrPhjqYzAK1cM2gP-1) |
+[Project report](Project_Report.pdf) | [Figma Designs](https://www.figma.com/design/07ebJ9bOish0JBql6CXDZY/EMOTIC?node-id=1-2&t=NrPhjqYzAK1cM2gP-1) |
 |-----------|---------------|-------------------------|-------------------------|
 
 
